@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Popular Movies App</string>
+
+    <string name="label_votes">Votes:</string>
+    <string name="label_popularity">Popularity:</string>
+    <string name="label_original_title">Original title:</string>
+    <string name="label_summary">Summary:</string>
+    <string name="label_genres">Genres:</string>
+    <string name="label_release_date">Release date:</string>
+    <string name="label_sorttoprated">Sort by top rated</string>
+    <string name="label_sortpopular">Sort by popular</string>
+    <string name="topratedurl"><![CDATA[https://api.themoviedb.org/3/movie/top_rated?api_key=[API KEY]&language=en-US&page=1>]]></string>
+    <string name="popularurl"><![CDATA[https://api.themoviedb.org/3/movie/popular?api_key=[API KEY]&language=en-US&page=1>]]></string>
+    <string name="baseimgurl">https://image.tmdb.org/t/p/w500</string>
+    <string name="jsonarrayresults">results</string>
+    <string name="jsongenre_ids">genre_ids</string>
+    <string name="jsontitle">title</string>
+    <string name="jsonoriginaltitle">original_title</string>
+    <string name="jsonreleasedate">release_date</string>
+    <string name="jsonmovieid">id</string>
+    <string name="jsonpopularity">popularity</string>
+    <string name="jsonoverview">overview</string>
+    <string name="jsonvoteaverage">vote_average</string>
+    <string name="jsonvotecount">vote_count</string>
+    <string name="jsonbackdrop">backdrop_path</string>
+    <string name="jsonposter">poster_path</string>
+    <string name="extrakeyclickedmovie">clicked movie</string>
+    <string name="dialogtitle">No connection!</string>
+    <string name="dialogmessage">Please check your connection and try again later!</string>
+    <string name="dialogbutton">OK!</string>
+    <string name="movie_poster_attr">Movie Poster</string>
+
+
+</resources>

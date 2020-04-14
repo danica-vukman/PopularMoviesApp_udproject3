@@ -1,0 +1,9 @@
+
+”
+java:S1319&"yThe type of the "listOfGenreIds" object should be an interface such as "List" rather than the implementation "ArrayList".(»âÆŠÿÿÿÿÿ
+c	java:S116$"NRename this field "TAG" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ü¨šı
+
+java:S1319’"yThe type of the "listOfGenreIds" object should be an interface such as "List" rather than the implementation "ArrayList".(Öõß
+\	java:S107&"BConstructor has 11 parameters, which is greater than 7 authorized.(»âÆŠÿÿÿÿÿ
+‹
+java:S1319r"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(‘Üì¿ûÿÿÿÿ

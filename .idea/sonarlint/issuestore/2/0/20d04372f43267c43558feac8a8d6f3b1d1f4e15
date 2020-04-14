@@ -1,0 +1,10 @@
+
+P
+java:S2274Â":Remove this call to "wait" or move it into a "while" loop.(ç£ŠM
+t
+java:S2273Â"^Move this call to "wait()" into a synchronized block to be sure the monitor on "this" is held.(ç£ŠM
+]
+java:S2142Ã"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+?
+java:S1148Ä"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+h	java:S116*"NRename this field "TAG" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ù‚µ“ÿÿÿÿÿ
